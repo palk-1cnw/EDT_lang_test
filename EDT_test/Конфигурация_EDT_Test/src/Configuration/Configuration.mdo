@@ -32,4 +32,5 @@
   <roles>Role.ПолныеПрава</roles>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.ЕдиницаИзмерения</catalogs>
+  <catalogs>Catalog.Валюты</catalogs>
 </mdclass:Configuration>
