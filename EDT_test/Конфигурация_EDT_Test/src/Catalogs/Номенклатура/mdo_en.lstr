@@ -1,8 +1,2 @@
 #Translations for: src/Catalogs/Номенклатура/Номенклатура.mdo
 
-Attribute.ЕдиницаИзмерения.Synonym=Unit of measurement
-Form.ФормаЭлемента.Synonym=Item Form
-StandardAttribute.Code.Synonym=ID
-StandardAttribute.Description.Synonym=Name
-StandardAttribute.Ref.Synonym=
-Synonym=Products
